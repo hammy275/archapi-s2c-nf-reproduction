@@ -1,0 +1,1 @@
+Test mod to reproduce bug in Architectury API 1.20.5 for S2C packets under NeoForge.
